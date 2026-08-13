@@ -1,242 +1,240 @@
 {
- "as_of": "2026-08-11",
+ "as_of": "2026-08-12",
  "reliability": {
-  "as_of": "2026-08-11",
-  "collected_at": "2026-08-12 18:00",
+  "as_of": "2026-08-12",
+  "collected_at": "2026-08-13 18:01",
   "primary": "KRX(공공데이터포털 금융위)",
   "backup": "네이버 금융",
-  "verdict": "검증필요",
-  "issues": [
-   "KRX-네이버 차이 큼(최대 16.0% (0194M0))"
-  ],
-  "krx_naver_diff": "최대 16.0% (0194M0)"
+  "verdict": "정상",
+  "issues": [],
+  "krx_naver_diff": "최대 14.2% (0194T0)"
  },
  "latest": {
   "0193T0": {
-   "date": "2026-08-11",
-   "aum_eok": 19237.7,
-   "nav": 7407.65,
-   "chg_eok": -257.9,
-   "chg_pct": -1.32,
-   "net_flow_eok": -44.4,
-   "price_effect_eok": -213.5
+   "date": "2026-08-12",
+   "aum_eok": 21376.0,
+   "nav": 8266.03,
+   "chg_eok": 2138.3,
+   "chg_pct": 11.12,
+   "net_flow_eok": -374.0,
+   "price_effect_eok": 2512.3
   },
   "0193W0": {
-   "date": "2026-08-11",
-   "aum_eok": 14604.9,
-   "nav": 10380.17,
-   "chg_eok": 886.4,
-   "chg_pct": 6.46,
-   "net_flow_eok": -347.7,
-   "price_effect_eok": 1234.1
+   "date": "2026-08-12",
+   "aum_eok": 16598.9,
+   "nav": 11858.45,
+   "chg_eok": 1994.0,
+   "chg_pct": 13.65,
+   "net_flow_eok": -145.3,
+   "price_effect_eok": 2139.2
   },
   "0195S0": {
-   "date": "2026-08-11",
-   "aum_eok": 11003.9,
-   "nav": 6282.55,
-   "chg_eok": 136.6,
-   "chg_pct": 1.26,
-   "net_flow_eok": 105.2,
-   "price_effect_eok": 31.4
+   "date": "2026-08-12",
+   "aum_eok": 12511.7,
+   "nav": 7014.28,
+   "chg_eok": 1507.8,
+   "chg_pct": 13.7,
+   "net_flow_eok": 107.0,
+   "price_effect_eok": 1400.9
   },
   "0195R0": {
-   "date": "2026-08-11",
-   "aum_eok": 8298.7,
-   "nav": 9446.39,
-   "chg_eok": 575.0,
-   "chg_pct": 7.44,
-   "net_flow_eok": -75.6,
-   "price_effect_eok": 650.5
+   "date": "2026-08-12",
+   "aum_eok": 9747.2,
+   "nav": 10782.34,
+   "chg_eok": 1448.6,
+   "chg_pct": 17.46,
+   "net_flow_eok": 8.1,
+   "price_effect_eok": 1440.5
   },
   "0194T0": {
-   "date": "2026-08-11",
-   "aum_eok": 449.5,
-   "nav": 6330.59,
-   "chg_eok": 7.6,
-   "chg_pct": 1.72,
-   "net_flow_eok": -3.2,
-   "price_effect_eok": 10.8
+   "date": "2026-08-12",
+   "aum_eok": 492.9,
+   "nav": 7040.88,
+   "chg_eok": 43.4,
+   "chg_pct": 9.65,
+   "net_flow_eok": -5.3,
+   "price_effect_eok": 48.7
   },
   "0194M0": {
-   "date": "2026-08-11",
-   "aum_eok": 466.4,
-   "nav": 9518.28,
-   "chg_eok": 30.3,
-   "chg_pct": 6.94,
-   "net_flow_eok": -4.8,
-   "price_effect_eok": 35.0
+   "date": "2026-08-12",
+   "aum_eok": 531.9,
+   "nav": 10855.69,
+   "chg_eok": 65.5,
+   "chg_pct": 14.05,
+   "net_flow_eok": -2.7,
+   "price_effect_eok": 68.2
   },
   "0192L0": {
-   "date": "2026-08-11",
-   "aum_eok": 317.9,
-   "nav": 6454.04,
-   "chg_eok": -3.1,
-   "chg_pct": -0.96,
-   "net_flow_eok": -4.8,
-   "price_effect_eok": 1.8
+   "date": "2026-08-12",
+   "aum_eok": 351.3,
+   "nav": 7170.15,
+   "chg_eok": 33.5,
+   "chg_pct": 10.53,
+   "net_flow_eok": -5.4,
+   "price_effect_eok": 38.9
   },
   "0192M0": {
-   "date": "2026-08-11",
-   "aum_eok": 300.0,
-   "nav": 9600.58,
-   "chg_eok": 15.7,
-   "chg_pct": 5.52,
-   "net_flow_eok": -4.8,
-   "price_effect_eok": 20.5
+   "date": "2026-08-12",
+   "aum_eok": 339.3,
+   "nav": 10945.44,
+   "chg_eok": 39.3,
+   "chg_pct": 13.1,
+   "net_flow_eok": -5.5,
+   "price_effect_eok": 44.8
   },
   "0197W0": {
-   "date": "2026-08-11",
-   "aum_eok": 430.7,
-   "nav": 6196.86,
-   "chg_eok": 2.0,
-   "chg_pct": 0.46,
-   "net_flow_eok": 1.5,
-   "price_effect_eok": 0.4
+   "date": "2026-08-12",
+   "aum_eok": 480.1,
+   "nav": 6907.71,
+   "chg_eok": 49.4,
+   "chg_pct": 11.47,
+   "net_flow_eok": 0.0,
+   "price_effect_eok": 49.4
   },
   "0193K0": {
-   "date": "2026-08-11",
-   "aum_eok": 156.6,
-   "nav": 10442.78,
-   "chg_eok": 10.6,
-   "chg_pct": 7.29,
+   "date": "2026-08-12",
+   "aum_eok": 178.5,
+   "nav": 11897.26,
+   "chg_eok": 21.8,
+   "chg_pct": 13.93,
    "net_flow_eok": 0.0,
-   "price_effect_eok": 10.6
+   "price_effect_eok": 21.8
   },
   "0198D0": {
-   "date": "2026-08-11",
-   "aum_eok": 207.0,
-   "nav": 6550.13,
-   "chg_eok": 0.7,
-   "chg_pct": 0.36,
+   "date": "2026-08-12",
+   "aum_eok": 231.4,
+   "nav": 7323.41,
+   "chg_eok": 24.4,
+   "chg_pct": 11.81,
    "net_flow_eok": 0.0,
-   "price_effect_eok": 0.7
+   "price_effect_eok": 24.4
   },
   "0198B0": {
-   "date": "2026-08-11",
-   "aum_eok": 215.0,
-   "nav": 9817.94,
-   "chg_eok": 14.5,
-   "chg_pct": 7.22,
+   "date": "2026-08-12",
+   "aum_eok": 245.9,
+   "nav": 11230.17,
+   "chg_eok": 30.9,
+   "chg_pct": 14.38,
    "net_flow_eok": 0.0,
-   "price_effect_eok": 14.5
+   "price_effect_eok": 30.9
   },
   "0194R0": {
-   "date": "2026-08-11",
-   "aum_eok": 100.6,
-   "nav": 6191.23,
-   "chg_eok": 0.3,
-   "chg_pct": 0.26,
+   "date": "2026-08-12",
+   "aum_eok": 112.4,
+   "nav": 6913.94,
+   "chg_eok": 11.7,
+   "chg_pct": 11.67,
    "net_flow_eok": 0.0,
-   "price_effect_eok": 0.3
+   "price_effect_eok": 11.7
   },
   "0194N0": {
-   "date": "2026-08-11",
-   "aum_eok": 83.8,
-   "nav": 9573.2,
-   "chg_eok": 5.3,
-   "chg_pct": 6.75,
+   "date": "2026-08-12",
+   "aum_eok": 96.2,
+   "nav": 10990.81,
+   "chg_eok": 12.4,
+   "chg_pct": 14.81,
    "net_flow_eok": 0.0,
-   "price_effect_eok": 5.3
+   "price_effect_eok": 12.4
   }
  },
  "rebal": {
   "SEC": {
-   "aum_eok": 24125.4,
-   "avg20_value_eok": 71194.8,
-   "mktcap_jo": 1493.7,
+   "aum_eok": 27737.9,
+   "avg20_value_eok": 72470.9,
+   "mktcap_jo": 1566.8,
    "scenarios": [
     {
      "move_pct": 3.0,
      "side": "추가 매수",
-     "amount_eok": 1448.0,
-     "vs_value_pct": 2.0,
-     "vs_mktcap_pct": 0.01
+     "amount_eok": 1664.0,
+     "vs_value_pct": 2.3,
+     "vs_mktcap_pct": 0.011
     },
     {
      "move_pct": 5.0,
      "side": "추가 매수",
-     "amount_eok": 2413.0,
-     "vs_value_pct": 3.4,
-     "vs_mktcap_pct": 0.016
+     "amount_eok": 2774.0,
+     "vs_value_pct": 3.8,
+     "vs_mktcap_pct": 0.018
     },
     {
      "move_pct": -3.0,
      "side": "추가 매도",
-     "amount_eok": 1448.0,
-     "vs_value_pct": 2.0,
-     "vs_mktcap_pct": 0.01
+     "amount_eok": 1664.0,
+     "vs_value_pct": 2.3,
+     "vs_mktcap_pct": 0.011
     },
     {
      "move_pct": -5.0,
      "side": "추가 매도",
-     "amount_eok": 2413.0,
-     "vs_value_pct": 3.4,
-     "vs_mktcap_pct": 0.016
+     "amount_eok": 2774.0,
+     "vs_value_pct": 3.8,
+     "vs_mktcap_pct": 0.018
     },
     {
      "move_pct": -10.0,
      "side": "대규모 매도",
-     "amount_eok": 4825.0,
-     "vs_value_pct": 6.8,
-     "vs_mktcap_pct": 0.032
+     "amount_eok": 5548.0,
+     "vs_value_pct": 7.7,
+     "vs_mktcap_pct": 0.035
     }
    ]
   },
   "HYN": {
-   "aum_eok": 31747.2,
-   "avg20_value_eok": 95264.0,
-   "mktcap_jo": 1098.7,
+   "aum_eok": 35555.7,
+   "avg20_value_eok": 92904.9,
+   "mktcap_jo": 1163.7,
    "scenarios": [
     {
      "move_pct": 3.0,
      "side": "추가 매수",
-     "amount_eok": 1905.0,
-     "vs_value_pct": 2.0,
-     "vs_mktcap_pct": 0.017
+     "amount_eok": 2133.0,
+     "vs_value_pct": 2.3,
+     "vs_mktcap_pct": 0.018
     },
     {
      "move_pct": 5.0,
      "side": "추가 매수",
-     "amount_eok": 3175.0,
-     "vs_value_pct": 3.3,
-     "vs_mktcap_pct": 0.029
+     "amount_eok": 3556.0,
+     "vs_value_pct": 3.8,
+     "vs_mktcap_pct": 0.031
     },
     {
      "move_pct": -3.0,
      "side": "추가 매도",
-     "amount_eok": 1905.0,
-     "vs_value_pct": 2.0,
-     "vs_mktcap_pct": 0.017
+     "amount_eok": 2133.0,
+     "vs_value_pct": 2.3,
+     "vs_mktcap_pct": 0.018
     },
     {
      "move_pct": -5.0,
      "side": "추가 매도",
-     "amount_eok": 3175.0,
-     "vs_value_pct": 3.3,
-     "vs_mktcap_pct": 0.029
+     "amount_eok": 3556.0,
+     "vs_value_pct": 3.8,
+     "vs_mktcap_pct": 0.031
     },
     {
      "move_pct": -10.0,
      "side": "대규모 매도",
-     "amount_eok": 6349.0,
-     "vs_value_pct": 6.7,
-     "vs_mktcap_pct": 0.058
+     "amount_eok": 7111.0,
+     "vs_value_pct": 7.7,
+     "vs_mktcap_pct": 0.061
     }
    ]
   }
  },
  "cumulative": {
   "SEC": {
-   "5": -3502.0,
-   "20": -6477.0,
-   "60": 38813.0
+   "5": -1739.0,
+   "20": -6245.0,
+   "60": 38668.0
   },
   "HYN": {
-   "5": -8833.0,
-   "20": 9132.0,
-   "60": 80201.0
+   "5": -4762.0,
+   "20": 8639.0,
+   "60": 79924.0
   },
-  "flow_ratio_hyn_over_sec": -1.41,
-  "aum_ratio_hyn_over_sec": 1.32
+  "flow_ratio_hyn_over_sec": -1.38,
+  "aum_ratio_hyn_over_sec": 1.28
  }
 }
