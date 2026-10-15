@@ -2,12 +2,12 @@
  "as_of": "2026-10-13",
  "reliability": {
   "as_of": "2026-10-13",
-  "collected_at": "2026-10-14 18:00",
+  "collected_at": "2026-10-15 18:01",
   "primary": "KRX(공공데이터포털 금융위)",
   "backup": "네이버 금융",
   "verdict": "정상",
   "issues": [],
-  "krx_naver_diff": "최대 5.1% (0194R0)"
+  "krx_naver_diff": "—"
  },
  "latest": {
   "0193T0": {
