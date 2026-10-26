@@ -2,11 +2,13 @@
  "as_of": "2026-10-23",
  "reliability": {
   "as_of": "2026-10-23",
-  "collected_at": "2026-10-26 18:00",
+  "collected_at": "2026-10-27 01:30",
   "primary": "KRX(공공데이터포털 금융위)",
   "backup": "네이버 금융",
-  "verdict": "정상",
-  "issues": [],
+  "verdict": "검증필요",
+  "issues": [
+   "기준일 4일 지연"
+  ],
   "krx_naver_diff": "최대 2.3% (0193W0)"
  },
  "latest": {
